@@ -1,11 +1,11 @@
-### N00bTaco Real                          
+### N00bTaco Fantasy                          
 ### Resources Pack for Minecraft                
 
 ### LICENSE
 
 #### You are free:                                                
 
-* to Share — to copy, distribute and transmit the work for private use only or by redirecting to http://manorton.github.io/N00bTaco-Real-x128
+* to Share — to copy, distribute and transmit the work for private use only or by redirecting to https://github.com/N00bTaco/N00bTaco-Fantasy-HD
 
 #### Under the following conditions:                              
 
